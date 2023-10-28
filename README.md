@@ -1,2 +1,2 @@
 # devopslab-template
-Repositório Template para Importação do Laboratório DevOps &amp; Cloud
+Repositório criado para aulas de DevOps &amp; Cloud Computing (Experience Labs)
